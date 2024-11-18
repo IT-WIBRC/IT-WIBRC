@@ -2,7 +2,7 @@
 
 ## Software developer, Junior Project manager 👨🏽‍🔧, and DevOps enthusiast 🧰
 
-3 years as a Front-End Developer, Vuejs, Nodejs, Reactjs... Worked in 3 companies (1 start-up in Cameroon, 1 in Canada, and 1 in Paris). Beginner writer.
+3 years+ as a Front-End Developer, Vuejs, Nodejs, Reactjs... Worked in 3 companies (1 start-up in Cameroon, 1 in Canada, and 1 in Paris). Beginner writer.
 
 - 🗺 I'm based in Douala, Cameroon
 - 🔭 I’m currently working on a client PWA app (In Paris)
