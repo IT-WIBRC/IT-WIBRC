@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Waffeu Ivany Botrel Rayn. 
+# Hi 👋 My name is Waffeu Ivany Botrel Rayn. 
 
 ## Software developer, Junior Project manager 👨🏽‍🔧, and DevOps enthusiast 🧰
 
