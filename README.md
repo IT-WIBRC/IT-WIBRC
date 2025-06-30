@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a client PWA app (In Paris)
 - 🧠 Huge fan of Vuejs and Typescript
 - Vue3, Nuxtjs, Tailwindcss, Supabase(Beginner), Nestjs (Beginner)
-- 🌱 I’m currently learning Nuxtjs and Supabase
+- 🌱 I’m currently learning Nuxtjs and Supabase. Project [WikiAuto](https://github.com/IT-WIBRC/WikiAuto/tree/develop)
 
 ### Skills
 
