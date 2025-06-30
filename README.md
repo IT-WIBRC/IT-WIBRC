@@ -6,7 +6,7 @@
 
 - 🗺 I'm based in Douala, Cameroon
 - 🔭 I’m currently working on a client PWA app (In Paris)
-- 🧠 Huge fan of Vuejs
+- 🧠 Huge fan of Vuejs and Typescript
 - Vue3, Nuxtjs, Tailwindcss, Supabase(Beginner), Nestjs (Beginner)
 - 🌱 I’m currently learning Nuxtjs and Supabase
 
