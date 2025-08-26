@@ -8,7 +8,8 @@
 - 🔭 I’m currently working on a client PWA app (In Paris)
 - 🧠 Huge fan of everything around javascript
 - Vue3, Nuxtjs, Tailwindcss, Supabase, Nestjs (Beginner)
-- 🌱 I’m currently learning Nuxtjs and Supabase. Project [WikiAuto](https://github.com/IT-WIBRC/WikiAuto/tree/develop)
+- 🌱 I waslearning Nuxtjs and Supabase. Project [WikiAuto](https://github.com/IT-WIBRC/WikiAuto/tree/develop) [Stopped due a problem with the lib `nuxt/supabase`]
+- Currectly working on a CLI project to automate repeating processes for dev [Devkit](https://github.com/IT-WIBRC/devkit)
 
 
 ### Languages
