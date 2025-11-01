@@ -5,7 +5,7 @@
 3 years+ as a Front-End Developer, Vuejs, Nodejs, Reactjs... Aspirant writer.
 
 - 🗺 I'm based in Douala, Cameroon
-- 🔭 I worked on a client PWA app (In Paris)
+- 🔭 I worked on many front-end projects but mainly for companies and sometimes as a freelancer
 - 🧠 Huge fan of everything around javascript
 - Vue3, Nuxtjs, Tailwindcss, Reactjs, Supabase, Nestjs (Beginner)
 - 🌱 I was learning Nuxtjs and Supabase and here is the project [WikiAuto](https://github.com/IT-WIBRC/WikiAuto/tree/develop) [Stopped due a problem with the lib `nuxt/supabase` [434](https://github.com/nuxt-modules/supabase/issues/434) and [#419](https://github.com/nuxt-modules/supabase/issues/419)] i did during it although not finished yet
