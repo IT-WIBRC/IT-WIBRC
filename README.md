@@ -11,6 +11,7 @@ I bridge the gap between university theory and production engineering. Currently
 * **[Ficus](https://ficus-web.netlify.app/) (Founder/Lead):** An EdTech platform for skill-gap analysis. Architected with an **Offline-First (IndexedDB)** approach for local accessibility, currently migrating to **Supabase**.
 * **[Production Prompts](https://github.com/IT-WIBRC/promps):** My framework for generating production-grade, secure code via AI.
 * **[Code Remarks](https://github.com/IT-WIBRC/coding-remarks):** A living repository of architectural insights and "lessons learned" from 4+ years in production.
+* **[Web bases](https://github.com/IT-WIBRC/web-bases):** A repository of web concept where i pushed what i teach to my students
 
 ---
 
