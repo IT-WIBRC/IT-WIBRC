@@ -20,7 +20,7 @@ I bridge the gap between university theory and production engineering. Currently
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Advanced JS** | **Functional Programming**, Composition API, React Hooks, TDD (Vitest) |
-| **Core Stack** | Vue 3 (Expert), Nuxt 3, TypeScript, TailwindCSS, Vite |
+| **Core Stack** | Vue 3 , Nuxt 3, TypeScript, TailwindCSS, Vite |
 | **Project Management** | Agile/Scrum, **M.Sc. Software Project Management**, Mentoring |
 | **DevOps & Cloud** | Docker, Jenkins, GitHub Actions, PWA Development |
 
