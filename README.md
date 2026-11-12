@@ -35,10 +35,10 @@ I bridge the gap between university theory and production engineering. Currently
 
 ### 📊 GitHub Ecosystem & Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IT-WIBRC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&include_orgs=true" alt="Rayn's GitHub Stats" height="170" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IT-WIBRC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT-WIBRC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
