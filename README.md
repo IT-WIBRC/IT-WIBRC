@@ -54,4 +54,4 @@ I bridge the gap between university theory and production engineering. Currently
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waffeu-ivany-botrel-rayn) [![CoderLegion](https://img.shields.io/badge/CoderLegion-FF4500?style=flat-square&logo=icon&logoColor=white)](https://coderlegion.com/user/Waffeu+Rayn) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/it-wibrc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waffeu-ivany-botrel-rayn) [![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/Waffeu+Rayn.svg)](https://coderlegion.com/user/Waffeu+Rayn) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/it-wibrc)
