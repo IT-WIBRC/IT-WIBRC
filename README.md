@@ -49,11 +49,12 @@ I bridge the gap between university theory and production engineering. Currently
 ### 🎓 Education & Languages
 * **M.Sc. in Software Project Management** (ENSET)
 * **B.Eng. in Software Engineering** (IUT)
-* **Languages:** French (Native), English (Full Professional - B2/TOEFL)
+* **Languages:** French (Native), English (Full Professional - B2/TOEFL, C1/IELTS)
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waffeu-ivany-botrel-rayn) 
-[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/Waffeu+Rayn.svg)](https://coderlegion.com/user/Waffeu+Rayn) 
+
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/Waffeu+Rayn.svg)](https://coderlegion.com/user/Waffeu+Rayn) <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waffeu-ivany-botrel-rayn)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/it-wibrc)
